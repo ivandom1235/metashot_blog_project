@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ivandom1235/metashot_blog_project.git/static/css/main.45b54ed5.css",
+    "main.js": "/ivandom1235/metashot_blog_project.git/static/js/main.724148de.js",
+    "static/js/453.be5539fd.chunk.js": "/ivandom1235/metashot_blog_project.git/static/js/453.be5539fd.chunk.js",
+    "static/media/photo3.jpg": "/ivandom1235/metashot_blog_project.git/static/media/photo3.93b289cd301eee87b4fd.jpg",
+    "static/media/photo4.jpg": "/ivandom1235/metashot_blog_project.git/static/media/photo4.279cee8ff7dfb62d6de9.jpg",
+    "static/media/photo2.jpg": "/ivandom1235/metashot_blog_project.git/static/media/photo2.dbcb37fea8da594d292b.jpg",
+    "static/media/photo5.jpg": "/ivandom1235/metashot_blog_project.git/static/media/photo5.e1a3c01ad637656ac8d8.jpg",
+    "static/media/photo1-insta.jpg": "/ivandom1235/metashot_blog_project.git/static/media/photo1-insta.e3d3229ca649f3e680be.jpg",
+    "index.html": "/ivandom1235/metashot_blog_project.git/index.html",
+    "main.45b54ed5.css.map": "/ivandom1235/metashot_blog_project.git/static/css/main.45b54ed5.css.map",
+    "main.724148de.js.map": "/ivandom1235/metashot_blog_project.git/static/js/main.724148de.js.map",
+    "453.be5539fd.chunk.js.map": "/ivandom1235/metashot_blog_project.git/static/js/453.be5539fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b54ed5.css",
+    "static/js/main.724148de.js"
+  ]
+}
