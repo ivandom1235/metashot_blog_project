@@ -14,22 +14,22 @@ const Footing = () => {
       <div className="foot1-2">
       <h3>About us</h3><br />
         
-        <li><a href="">home</a></li><br />
-            <li><a href="">portfolio</a></li><br />
-            <li><a href="">blog</a></li><br />
-            <li><a href="">shop</a></li><br />
-            <li><a href="">elements</a></li><br />
+        <li><a href="https://www.google.co.in/">home</a></li><br />
+            <li><a href="https://www.google.co.in/">portfolio</a></li><br />
+            <li><a href="https://www.google.co.in/">blog</a></li><br />
+            <li><a href="https://www.google.co.in/">shop</a></li><br />
+            <li><a href="https://www.google.co.in/">elements</a></li><br />
           
         
         </div>
         <div className="foot1-3">
         <h3>Product</h3>
         <li><br />
-          <a href="">home</a></li><br />
-            <li><a href="">portfolio</a></li><br />
-            <li><a href="">blog</a></li><br />
-            <li><a href="">shop</a></li><br />
-            <li><a href="">elements</a></li><br />
+          <a href="https://www.google.co.in/">home</a></li><br />
+            <li><a href="https://www.google.co.in/">portfolio</a></li><br />
+            <li><a href="https://www.google.co.in/">blog</a></li><br />
+            <li><a href="https://www.google.co.in/">shop</a></li><br />
+            <li><a href="https://www.google.co.in/">elements</a></li><br />
             </div>
             <div className="foot1-4">
          <h3>Contact us
@@ -39,10 +39,10 @@ const Footing = () => {
             <li>0938-3535-235</li><br />
             
               
-                <li><a href="#"><FaWhatsapp /></a>
-                <a href=""><FaFacebookF /></a>
+                <li><a href="https://www.google.co.in/"><FaWhatsapp /></a>
+                <a href="https://www.google.co.in/"><FaFacebookF /></a>
               
-            <a href=""><FaXTwitter /></a></li>  
+            <a href="https://www.google.co.in/"><FaXTwitter /></a></li>  
               
             
           

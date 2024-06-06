@@ -5,11 +5,11 @@ function Header() {
     <div className='heading'>
         <h1>packs.</h1>
         <ul>
-            <li><a href="">home</a></li>
-            <li><a href="">portfolio</a></li>
-            <li><a href="">blog</a></li>
-            <li><a href="">shop</a></li>
-            <li><a href="">elements</a></li>
+            <li><a href="https://www.google.co.in/">home</a></li>
+            <li><a href="https://www.google.co.in/">portfolio</a></li>
+            <li><a href="https://www.google.co.in/">blog</a></li>
+            <li><a href="https://www.google.co.in/">shop</a></li>
+            <li><a href="https://www.google.co.in/">elements</a></li>
         </ul>
       
     </div>
